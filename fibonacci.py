@@ -1,4 +1,4 @@
-#! Python 3
+#! Python3
 """
 Fibonacci Sequence solutions written by Geeky Adams.
 
